@@ -1,3 +1,2 @@
 # Hello ALX people.
-This is a final test of pushing a commit from gitbash CLI into
-github
+This is a contribution made to the README within github, and now going to see if my local repo sees the changes made.
